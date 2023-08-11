@@ -1,5 +1,5 @@
 # CHANGE-TO-YOURNAME-aws-node-http-api-project
-service: sangeetha-aws-node-http-api-project
+service: Sangeetha-serverless
 frameworkVersion: '3'
 
 provider:
